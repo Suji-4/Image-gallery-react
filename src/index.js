@@ -15,6 +15,7 @@ const root = ReactDOM.createRoot(document.getElementById("root"))
 root.render(
   <div>
     <h1 >TRUZ Gallery</h1> 
+  <hr></hr>
 <div className="container">
   <div>
    <img src={one} alt="one"></img>
