@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: skyblue;
+}
+h1{
+    padding-top: 10px;
+    text-align: center;
+    color: indianred;
+
+}
+hr {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: black;
+    
+    }
+
+.container div{
+    width: 200px;   
+    padding: 30px;
+
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+justify-content: center;
+    
+}
+.container img{
+    border: solid black 3px;
+}
